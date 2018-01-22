@@ -29,7 +29,7 @@ public class Graph extends Frame implements ActionListener,WindowListener {
         add(cpanel,BorderLayout.CENTER);
 	}
 
-
+      
 
 	@Override
 	public void windowActivated(WindowEvent arg0) {
