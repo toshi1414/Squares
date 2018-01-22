@@ -14,4 +14,16 @@
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>csv/x.csv</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Downloads/%E9%9D%99%E5%B2%A1%E5%A4%A7%E5%AD%A6%E5%B1%A5%E4%BF%AE%EF%BC%92%E5%B9%B4/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E5%BF%9C%E7%94%A8/x.csv</locationURI>
+		</link>
+		<link>
+			<name>csv/y.csv</name>
+			<type>1</type>
+			<locationURI>PARENT-2-PROJECT_LOC/Downloads/%E9%9D%99%E5%B2%A1%E5%A4%A7%E5%AD%A6%E5%B1%A5%E4%BF%AE%EF%BC%92%E5%B9%B4/%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0%E5%BF%9C%E7%94%A8/y.csv</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
