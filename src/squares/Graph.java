@@ -15,7 +15,7 @@ import org.jfree.data.category.DefaultCategoryDataset;
 
 public class Graph extends Frame implements ActionListener,WindowListener {
 
-	public Graph(double value[]){
+	public Graph(double[] value){
 		addWindowListener(this);
 		setTitle("Squares");
         DefaultCategoryDataset data = new DefaultCategoryDataset();
@@ -30,6 +30,12 @@ public class Graph extends Frame implements ActionListener,WindowListener {
 	}
 
       
+
+	public Graph(double[][] value) {
+		// TODO Auto-generated constructor stub
+	}
+
+
 
 	@Override
 	public void windowActivated(WindowEvent arg0) {
